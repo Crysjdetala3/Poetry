@@ -76,6 +76,10 @@ th, td {
     margin: 0px;
 }
 
+th {
+    color: #000;
+}
+
 th, td {
     text-align: left;
     background-color: #e0e9f0;
